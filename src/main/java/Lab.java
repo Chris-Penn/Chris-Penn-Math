@@ -22,6 +22,6 @@ public class Lab {
     public double mathPow(double a, double b){
 
         double exp = Math.pow(a,b);
-        return exp;
+        return exp; 
     }
 }
